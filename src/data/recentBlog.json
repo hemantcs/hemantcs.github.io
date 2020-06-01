@@ -1,0 +1,25 @@
+{
+    "title": "Recently On My Blog",
+    "data": [
+        {
+            "title": "Code Isn’t Art—It’s Engineering",
+            "url": "https://medium.com/better-programming/coding-is-not-an-art-its-engineering-e95c2eead1ea",
+            "year": "Apr 19, 2020"
+        },
+        {
+            "title": "How AI will help us get rid of fake news by 2030",
+            "url": "https://medium.com/@jtomaszewski/how-we-will-get-rid-of-fake-news-by-2030-b70e330fbbaa",
+            "year": "Sep 17, 2019"
+        },
+        {
+            "title": "How AI will help us get rid of fake news by 2030",
+            "url": "https://medium.com/@jtomaszewski/how-we-will-get-rid-of-fake-news-by-2030-b70e330fbbaa",
+            "year": "May 01, 2018"
+        },
+        {
+            "title": "Over 16 reasons why Jira and Confluence suck",
+            "url": "https://medium.com/@jtomaszewski/15-reasons-why-jira-and-confluence-suck-37507361cbdf?source=---------5------------------",
+            "year": "Jan 19, 2018"
+        }
+    ]
+}

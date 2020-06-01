@@ -1,0 +1,30 @@
+{
+    "title": "Contact Me",
+    "description": "I am available for hire and open to any ideas of cooperation.",
+    "profile": [
+        {
+            "key": "Email:",
+            "network": "email",
+            "value": "hemantksingh246@gmail.com",
+            "url": "mailto:hemantksingh246@gmail.com"
+        },
+        {
+            "key": "LinkedIn:",
+            "network": "facebook",
+            "value": "hemantksingh246",
+            "url": "https://www.linkedin.com/in/hemantksingh246"
+        },
+        {
+            "key": "Facebook:",
+            "network": "linkedin",
+            "value": "hemantksingh135",
+            "url": "https://facebook.com/hemantksingh135"
+        },
+        {
+            "key": "Twitter:",
+            "network": "twitter",
+            "value": "@hemantksingh135",
+            "url": "https://twitter.com/hemantksingh135"
+        }
+    ]
+}

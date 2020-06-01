@@ -1,0 +1,45 @@
+{
+    "title": "About Me",
+    "description": "Hello I'm Hemant!",
+    "content": "I am talanted florist and decorator. I have graduated from International and cultural university of design and arts. Since first year in high school I relized that nature is most powerfull and beautiful gift in the world. I was captivated by beauty and simplicity of flowers and trees. Since then I have started to create and mastering unique and nice bouquets. My 1st masterpiece was garden of ant Ula Lowe decorated by me",
+    "profile": {
+        "title": "Profile",
+        "description": "Currently, I'm seeking a full time software engineering/data analyst position in bay area (US).",
+        "profile": [
+            {
+                "key": "Full Name:",
+                "value": "Hemant Kumar Singh"
+            },
+            {
+                "key": "Birth Date:",
+                "value": "Jan 13, 1991"
+            },
+            {
+                "key": "Email:",
+                "value": "hemantksingh246@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "title": "skills",
+        "description": "I'm an independent teamworker strong in research and coding. My areas of expertise are bioinformatics, genetics, and computer science. Below are highlights of my technical skills:",
+        "skills": [
+            {
+                "key": "C/C++",
+                "value": "90%"
+            },
+            {
+                "key": "Js/Css/Html",
+                "value": "70%"
+            },
+            {
+                "key": "Java",
+                "value": "50%"
+            },
+            {
+                "key": "Python",
+                "value": "30%"
+            }
+        ]
+    }
+}

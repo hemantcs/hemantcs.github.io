@@ -1,0 +1,78 @@
+{
+    "title": "Portfolio",
+    "description": "Here are my work experiences and education.",
+    "items": [
+        {
+            "description": "<strong>Currently open to co-operation on new and existing projects.</strong><p>Looking for a CTO, a mentor, or a just full-stack dev willing to join your team? Contact me. I will answer you in ~24 hours.</p>",
+            "timeline": "Now"
+        },
+        {
+            "description": "<p>During this time I took a temporary break from freelancing. Instead, I was an employee in medium-size tech companies. This gave me a lot of experience and hindsight on how a proper team collaboration, recruitment, and project management process should look like. See my CV for more details.</p>",
+            "timeline": "2017 - 2019"
+        },
+        {
+            "title": "Tripsomnia",
+            "subTitle": "Experience a lifetime adventure. Save up on your holiday",
+            "description": "<strong>Tripsomnia is a web platform that allows to book and sell local tours and tourist attractions all over the world. It serves both as:</strong>",
+            "ulist": [
+                "a SaaS platform for tour operators and activity providers, to manage their offers, customers, orders, and agents cooperation,",
+                "a marketplace for end-customers to book the local tours and activities while or before the travelling."
+            ],
+            "technologies": [
+                {
+                    "title": "Ruby on Rails",
+                    "url": "https://rubyonrails.org/"
+                },
+                {
+                    "title": "React",
+                    "url": "https://www.ansible.com/"
+                }
+            ],
+            "timeline": "2016 - 2017"
+        },
+        {
+            "title": "FestBlast",
+            "subTitle": "The best way to enjoy fests",
+            "description": "<strong>FestBlast is an all-in-one platform that lets you easily find the best music fests, organize your trip and personalize your festival experience.</strong><br><br><p>This free web and mobile solution helps you stay connected with your friends & share your epic festival moments.</p>",
+            "olist": [
+                "Responsive web application (Ruby on Rails, Angular)",
+                "Mobile application for Android & iOS (Angular, Ionic, Cordova)"
+            ],
+            "technologies": [
+                {
+                    "title": "Ruby on Rails",
+                    "url": "https://rubyonrails.org/"
+                },
+                {
+                    "title": "Angular",
+                    "url": "https://angular.io/"
+                },
+                {
+                    "title": "Ionic Framework",
+                    "url": "https://ionicframework.com/"
+                },
+                {
+                    "title": "Apache Cordova",
+                    "url": "https://cordova.apache.org/"
+                },
+                {
+                    "title": "Redis",
+                    "url": "http://redis.io/"
+                },
+                {
+                    "title": "ElasticSearch",
+                    "url": "http://elasticsearch.org/"
+                },
+                {
+                    "title": "Chef",
+                    "url": "https://www.getchef.com/"
+                },
+                {
+                    "title": "React",
+                    "url": "https://www.ansible.com/"
+                }
+            ],
+            "timeline": "2014 - 2016"
+        }
+    ]
+}

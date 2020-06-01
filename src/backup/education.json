@@ -1,0 +1,35 @@
+{
+    "title": "Education",
+    "data": [
+        {
+            "year": "2014 - 2016",
+            "degree": "Web Master / Web Developer",
+            "location": "Lipro University",
+            "content": "I completed this degree from this prestigious insitution. I successful completed all the credits without any fallout and got A grade overall."
+        },
+        {
+            "year": "2012 - 2014",
+            "degree": "Software Engineering",
+            "location": "Oxford University",
+            "content": "I completed this degree from this prestigious insitution. I successful completed all the credits without any fallout and got A grade overall."
+        },
+        {
+            "year": "2010 - 2012",
+            "degree": "Mobile App Development",
+            "location": "Lipro University",
+            "content": "I completed this degree from this prestigious insitution. I successful completed all the credits without any fallout and got A grade overall."
+        },
+        {
+            "year": "2008 - 2010",
+            "degree": "Full Stack Developer",
+            "location": "Computer Science",
+            "content": "I completed this degree from this prestigious insitution. I successful completed all the credits without any fallout and got A grade overall."
+        },
+        {
+            "year": "2006 - 2008",
+            "degree": "Full Stack Developer",
+            "location": "Lipro University",
+            "content": "I completed this degree from this prestigious insitution. I successful completed all the credits without any fallout and got A grade overall."
+        }
+    ]
+}
