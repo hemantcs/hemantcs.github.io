@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import aboutData from '../data/about.json';
-import resumePdf from '../pdf/hemant_Resume.pdf';
+import resumePdf from '../pdf/Hemant_Kumar_Singh_Resume.pdf';
 
 class About extends Component {
 
@@ -63,7 +63,7 @@ class About extends Component {
                     </div>
                     
                     <div className="about-download">
-                        <a href={resumePdf} download>Download CV</a>
+                        <a href={resumePdf} download>Download Resume</a>
                         <Link to="/contact">Contact Me</Link>
                     </div>
                 </div>
