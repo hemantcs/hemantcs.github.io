@@ -1,10 +1,10 @@
 {
     "title": "About Me",
     "description": "Hello I'm Hemant!",
-    "content": "I am talanted florist and decorator. I have graduated from International and cultural university of design and arts. Since first year in high school I relized that nature is most powerfull and beautiful gift in the world. I was captivated by beauty and simplicity of flowers and trees. Since then I have started to create and mastering unique and nice bouquets. My 1st masterpiece was garden of ant Ula Lowe decorated by me",
+    "content": "A polyglot programmer with 5+ years of work experience in multi-tenant SaaS/Cloud application development. Currently pursuing Masters in Computer Science (Big Data Systems) at Arizona State University, Tempe. Actively seeking full-time software developer opportunity starting May 2021.",
     "profile": {
         "title": "Profile",
-        "description": "Currently, I'm seeking a full time software engineering/data analyst position in bay area (US).",
+        "description": "Currently, I'm seeking a full time software engineering position in bay area (US).",
         "profile": [
             {
                 "key": "Full Name:",
@@ -22,7 +22,7 @@
     },
     "skills": {
         "title": "skills",
-        "description": "I'm an independent teamworker strong in research and coding. My areas of expertise are bioinformatics, genetics, and computer science. Below are highlights of my technical skills:",
+        "description": "I'm an independent teamworker strong in research and coding. My areas of expertise are Database Systems, Big Data Systems, and Distributed Systems. Below are highlights of my technical skills:",
         "skills": [
             {
                 "key": "C/C++",

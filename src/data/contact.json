@@ -10,21 +10,21 @@
         },
         {
             "key": "LinkedIn:",
-            "network": "facebook",
-            "value": "hemantksingh246",
-            "url": "https://www.linkedin.com/in/hemantksingh246"
+            "network": "linkedin",
+            "value": "hemantcs",
+            "url": "https://www.linkedin.com/in/hemantcs/"
         },
         {
             "key": "Facebook:",
-            "network": "linkedin",
-            "value": "hemantksingh135",
-            "url": "https://facebook.com/hemantksingh135"
+            "network": "facebook",
+            "value": "hemant19cse",
+            "url": "https://facebook.com/hemant19cse"
         },
         {
             "key": "Twitter:",
             "network": "twitter",
-            "value": "@hemantksingh135",
-            "url": "https://twitter.com/hemantksingh135"
+            "value": "@hemant19cse",
+            "url": "https://twitter.com/hemant19cse"
         }
     ]
 }
