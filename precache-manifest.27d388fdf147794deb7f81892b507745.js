@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6797a546becd64a29dfa5eec12c4df67",
+    "revision": "9cce1f3a58ac46ecda35c0e5a041d9e3",
     "url": "/index.html"
   },
   {
-    "revision": "2542f192b5fd75522735",
+    "revision": "d64819bb5a2b3af2af6e",
     "url": "/static/css/main.578fe9c1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b71f169f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2542f192b5fd75522735",
-    "url": "/static/js/main.be0a664c.chunk.js"
+    "revision": "d64819bb5a2b3af2af6e",
+    "url": "/static/js/main.3d240509.chunk.js"
   },
   {
     "revision": "37cee4e6e9cc10b2a308",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d20956516e72ca866dcaa1a938864749",
     "url": "/static/media/Hemant_Kumar_Singh_Resume.d2095651.pdf"
+  },
+  {
+    "revision": "ada39a304b93ef809dcd2cff983b7434",
+    "url": "/static/media/hemant.ada39a30.jpg"
   }
 ]);
