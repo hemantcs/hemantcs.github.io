@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { NavLink } from 'react-router-dom';
-import logo  from '../images/hemant.jpg';
+import logo  from '../images/hemant.png';
 import contactData from '../data/contact.json';
 import { SocialIcon } from 'react-social-icons';
 import RecentBlog from './recentBlog';
