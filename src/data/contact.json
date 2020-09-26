@@ -11,20 +11,14 @@
         {
             "key": "LinkedIn:",
             "network": "linkedin",
-            "value": "hemantcs",
+            "value": "https://www.linkedin.com/in/hemantcs",
             "url": "https://www.linkedin.com/in/hemantcs/"
         },
         {
-            "key": "Facebook:",
-            "network": "facebook",
-            "value": "hemant19cse",
-            "url": "https://facebook.com/hemant19cse"
-        },
-        {
-            "key": "Twitter:",
-            "network": "twitter",
-            "value": "@hemant19cse",
-            "url": "https://twitter.com/hemant19cse"
+            "key": "GitHub:",
+            "network": "github",
+            "value": "https://github.com/hemantcs",
+            "url": "https://github.com/hemantcs/"
         }
     ]
 }

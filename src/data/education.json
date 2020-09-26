@@ -1,3 +1,15 @@
 {
-    "title": "Education"
+    "title": "Education",
+    "items": [
+        {
+            "title": "Master of Computer Science(Big Data Systems)",
+            "subTitle": "Arizona State University, Tempe, Arizona",
+            "timeline": "2019 - 2021"
+        },
+        {
+            "title": "Bachelor of Technology - Computer Science & Engineering",
+            "subTitle": "SASTRA University, Thanjavur, India",
+            "timeline": "2009 - 2013"
+        }
+    ]
 }

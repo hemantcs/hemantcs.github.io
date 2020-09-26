@@ -1,78 +1,102 @@
 {
     "title": "Portfolio",
-    "description": "Here are my work experiences and education.",
     "items": [
         {
-            "description": "<strong>Currently open to co-operation on new and existing projects.</strong><p>Looking for a CTO, a mentor, or a just full-stack dev willing to join your team? Contact me. I will answer you in ~24 hours.</p>",
-            "timeline": "Now"
-        },
-        {
-            "description": "<p>During this time I took a temporary break from freelancing. Instead, I was an employee in medium-size tech companies. This gave me a lot of experience and hindsight on how a proper team collaboration, recruitment, and project management process should look like. See my CV for more details.</p>",
-            "timeline": "2017 - 2019"
-        },
-        {
-            "title": "Tripsomnia",
-            "subTitle": "Experience a lifetime adventure. Save up on your holiday",
-            "description": "<strong>Tripsomnia is a web platform that allows to book and sell local tours and tourist attractions all over the world. It serves both as:</strong>",
+            "title": "Disease Search By Symptoms - Healthcare Websites Mining",
+            "description": "<strong>A complete end-end to applications which allows users to Search disease by typing one or more symptoms in the search box. It also allows users find effective drug for discovered disease.</strong>",
             "ulist": [
-                "a SaaS platform for tour operators and activity providers, to manage their offers, customers, orders, and agents cooperation,",
-                "a marketplace for end-customers to book the local tours and activities while or before the travelling."
+                "Developed web crawlers to scrap structured data from healthcare discussion forums and drug reviews websites.",
+                "Created Java web application and REST API endpoints for data indexing and searching.",
+                "Improved search accuracy by more than 9% by incorporating information extraction technique (NER) and Bio-medical synonyms.",
+                "Collaborated with other team members to successfully deliver project milestones on time."
             ],
+            "timeline": "Spring 20",
             "technologies": [
                 {
-                    "title": "Ruby on Rails",
-                    "url": "https://rubyonrails.org/"
+                    "title": "Java",
+                    "url": "https://www.java.com/en/"
                 },
                 {
-                    "title": "React",
-                    "url": "https://www.ansible.com/"
+                    "title": "Java Servlet",
+                    "url": "https://en.wikipedia.org/wiki/Jakarta_Servlet"
+                },
+                {
+                    "title": "Apache Solr",
+                    "url": "https://lucene.apache.org/solr/"
+                },
+                {
+                    "title": "UMLS MetaMap",
+                    "url": "https://metamap.nlm.nih.gov/"
+                },
+                {
+                    "title": "Python",
+                    "url": "https://www.python.org/"
+                },
+                {
+                    "title": "Scrapy",
+                    "url": "https://scrapy.org/"
+                },
+                {
+                    "title": "REST API",
+                    "url": "https://en.wikipedia.org/wiki/Representational_state_transfer"
+                },
+                {
+                    "title": "Node.js",
+                    "url": "https://nodejs.org/en/"
+                },
+                {
+                    "title": "PhantomJS",
+                    "url": "https://phantomjs.org/"
                 }
-            ],
-            "timeline": "2016 - 2017"
+            ]
         },
         {
-            "title": "FestBlast",
-            "subTitle": "The best way to enjoy fests",
-            "description": "<strong>FestBlast is an all-in-one platform that lets you easily find the best music fests, organize your trip and personalize your festival experience.</strong><br><br><p>This free web and mobile solution helps you stay connected with your friends & share your epic festival moments.</p>",
-            "olist": [
-                "Responsive web application (Ruby on Rails, Angular)",
-                "Mobile application for Android & iOS (Angular, Ionic, Cordova)"
+            "title": "Bigtable database implementation using Relational DBMS",
+            "description": "<strong>Single-node <a href='https://en.wikipedia.org/wiki/Bigtable'>Bigtable</a> implementation by using Relational DBMS components as building blocks.</strong>",
+            "ulist": [
+                "Extended Minibase persistent Heapfile and Tuple data structures to implement Bigtable maps.",
+                "Leveraged in-memory data structures to optimize batch insertion and minimized disk-page access significantly.",
+                "Optimized Heapfile page layout and B+ Tree index structure to support flexible data clustering and querying."
             ],
+            "timeline": "Spring 20",
             "technologies": [
                 {
-                    "title": "Ruby on Rails",
-                    "url": "https://rubyonrails.org/"
+                    "title": "Java",
+                    "url": "https://www.java.com/en/"
                 },
                 {
-                    "title": "Angular",
-                    "url": "https://angular.io/"
-                },
-                {
-                    "title": "Ionic Framework",
-                    "url": "https://ionicframework.com/"
-                },
-                {
-                    "title": "Apache Cordova",
-                    "url": "https://cordova.apache.org/"
-                },
-                {
-                    "title": "Redis",
-                    "url": "http://redis.io/"
-                },
-                {
-                    "title": "ElasticSearch",
-                    "url": "http://elasticsearch.org/"
-                },
-                {
-                    "title": "Chef",
-                    "url": "https://www.getchef.com/"
-                },
-                {
-                    "title": "React",
-                    "url": "https://www.ansible.com/"
+                    "title": "Minibase",
+                    "url": "https://research.cs.wisc.edu/coral/mini_doc/minibase.html"
                 }
+            ]
+        },
+        {
+            "title": "Multimedia information retrieval system",
+            "description": "<strong>A Supervised Machine Learning project using the <a href='https://sites.google.com/view/11khands'>11k Hands</a> dataset.</strong>",
+            "ulist": [
+                "Implemented image feature extraction, mapped images to multi-dimensional vector space for image similarity computation.",
+                "Improved image search performance by 30% by implementing Dimensionality Reduction techniques.",
+                "Implemented relevance feedback using Personalized Page Rank in the image retrieval system."
             ],
-            "timeline": "2014 - 2016"
+            "timeline": "Fall 19",
+            "technologies": [
+                {
+                    "title": "Python",
+                    "url": "https://www.python.org/"
+                },
+                {
+                    "title": "Pandas",
+                    "url": "https://pandas.pydata.org/"
+                },
+                {
+                    "title": "scikit-learn",
+                    "url": "https://scikit-learn.org/stable/"
+                },
+                {
+                    "title": "matplotlib",
+                    "url": "https://matplotlib.org/api/pyplot_api.html"
+                }
+            ]
         }
     ]
 }

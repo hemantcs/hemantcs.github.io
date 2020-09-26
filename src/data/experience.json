@@ -1,3 +1,111 @@
 {
-    "title": "Experience"
+    "title": "Experience",
+    "items": [
+        {
+            "title": "Software Engineer Intern",
+            "subTitle": "Dell Technologies, Tempe, Arizona",
+            "description": "<strong>Data storage devices event data analysis</strong>",
+            "ulist": [
+                "Identified important missing information and gaps in the existing devices event data of PowerEdge, Isilon, PowerOne, PowerMax, and PowerFlex using SQL & Alteryx.",
+                "Used K-Means and DBSCAN clustering to create & analyze event clusters and proposed data changes to improve clustering accuracy.",
+                "Identified event sequences that are most prevalent and lead to frequent system outages. Also proposed new data & event changes for predictive maintenance to reduce system downtime.",
+                "Collaborated virtually with teammates working from varying timezone, successfully completed the project, and presented our work to key-stakeholders."
+            ],
+            "timeline": "Jun 20 - Jul 20",
+            "technologies": [
+                {
+                    "title": "Python",
+                    "url": "https://www.python.org/"
+                },
+                {
+                    "title": "Alteryx",
+                    "url": "https://www.alteryx.com/"
+                },
+                {
+                    "title": "SQL",
+                    "url": "https://en.wikipedia.org/wiki/SQL"
+                }
+            ]
+        },
+        {
+            "title": "Member Technical Staff",
+            "subTitle": "Zoho Corporation, Chennai, India",
+            "ulist": [
+                "Implemented Multi-module search for ServiceDesk Plus",
+                "Developed RESTFul APIs for federated search ",
+                "Enhanced Search and indexing performance",
+                "Spearheaded design and development of Android and iOS SDK for Zia Search"
+            ],
+            "timeline": "Jun 13 - Jul 19",
+            "technologies": [
+                {
+                    "title": "Java",
+                    "url": "https://www.java.com/en/"
+                },
+                {
+                    "title": "Elasticsearch",
+                    "url": "https://github.com/elastic/elasticsearch"
+                },
+                {
+                    "title": "Java Servlet",
+                    "url": "https://en.wikipedia.org/wiki/Jakarta_Servlet"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "url": "https://www.postgresql.org/"
+                },
+                {
+                    "title": "MySQL",
+                    "url": "https://www.mysql.com/"
+                },
+                {
+                    "title": "Redis",
+                    "url": "https://redis.io/"
+                },
+                {
+                    "title": "iOS",
+                    "url": "https://developer.apple.com/ios/"
+                },
+                {
+                    "title": "Android",
+                    "url": "https://www.android.com/"
+                },
+                {
+                    "title": "Protocol Buffers",
+                    "url": "https://developers.google.com/protocol-buffers"
+                },
+                {
+                    "title": "REST API",
+                    "url": "https://en.wikipedia.org/wiki/Representational_state_transfer"
+                }
+            ]
+        },
+        {
+            "title": "Project Training (Software Engineer Intern)",
+            "subTitle": "Zoho Corporation, Chennai, India",
+            "ulist": [
+                "Implemented configuration (XML) based generic crawler for MySQL, PostgreSQL, and MSSQL databases.",
+                "Implemented finer level control on the indexing process with simple configuration parameters(custom data type, tokenization, file parsing, etc.)"
+            ],
+            "timeline": "Dec 12 - May 13",
+            "technologies": [
+                {
+                    "title": "Java",
+                    "url": "https://www.java.com/en/"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "url": "https://www.postgresql.org/"
+                },
+                {
+                    "title": "MySQL",
+                    "url": "https://www.mysql.com/"
+                },
+                {
+                    "title": "Apache Solr",
+                    "url": "https://lucene.apache.org/solr/"
+                }
+            ]
+        }
+    ]
 }

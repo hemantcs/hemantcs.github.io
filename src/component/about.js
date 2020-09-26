@@ -16,6 +16,7 @@ class About extends Component {
                     <div className="about-title">{aboutData.title}</div>
                     <p className="about-desc">{aboutData.description}</p>
                     <p className="about-content">{aboutData.content}</p>
+                    <p className="about-content">{aboutData.content_para2}</p>
                     
                     <div className="about-section-table">
                         <div className="about-section-row">
