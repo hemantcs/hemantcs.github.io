@@ -8,4 +8,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #### `npm run deploy`
 
-Starts the deployment from the dev branch to the master branch, hence the actual website.
+Starts the deployment from the dev branch (git push -u origin dev) to the master branch, hence the actual website.

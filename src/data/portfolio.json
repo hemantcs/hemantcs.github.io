@@ -2,13 +2,90 @@
     "title": "Portfolio",
     "items": [
         {
+            "title": "Clinical Semantic Text Similarity - Natural Language Processing",
+            "description": "<strong>Bidirectional Encoder Representations from Transformers (BERT) based implementation for Clinical Semantic Text Similarity <a href='https://n2c2.dbmi.hms.harvard.edu/track1'>challenge</a>.</strong>",
+            "ulist": [
+                "Developed a Neural Network model based on BERT to compute a semantic similarity score between pair of sentences from clinical notes",
+                "Developed Cosine similarity and Linear Regression based similarity score computation layer",
+                "Applied Transfer Learning to improve model performance (by 2.71%) as the task dataset was inadequate",
+                "Implemented back translation and rule-based data augmentation to help model learn clinical domain knowledge and further improve model performance (by 1.27%)",
+                "Achieved a Pearson Correlation Coefficient of 0.8851 just 0.0159 lower than the current state-of-the-art method which needs much more resources to train the model"
+            ],
+            "timeline": "Fall 20",
+            "technologies": [
+                {
+                    "title": "BERT Language Model",
+                    "url": "https://en.wikipedia.org/wiki/BERT_(language_model)"
+                },
+                {
+                    "title": "Hugging Face Transformers",
+                    "url": "https://github.com/huggingface/transformers"
+                },
+                {
+                    "title": "PyTorch",
+                    "url": "https://pytorch.org/"
+                },
+                {
+                    "title": "Python",
+                    "url": "https://www.python.org/"
+                },
+                {
+                    "title": "Pandas",
+                    "url": "https://pandas.pydata.org/"
+                },
+                {
+                    "title": "matplotlib",
+                    "url": "https://matplotlib.org/api/pyplot_api.html"
+                }
+            ]
+        },
+        {
+            "title": "Covid-19 Symptoms Monitoring Android App",
+            "description": "<strong>Android app for Covid-19 symptoms monitoring and contact tracing. Intuitive UI for the users to measure heart rate, respiration rate, and log Covid-19 symptoms.</strong>",
+            "ulist": [
+                "Developed heart rate measurement feature based on user finger-tip video",
+                "Developed respiration rate measurement feature based on gyroscope sensor data",
+                "Developed intuitive UI with inline help features so that the app can be used without much learning curve",
+                "Used SQLite to locally store all collected Covid-19 signs and symptoms",
+                "Developed Python Flask based server and connected the app to upload the signs and symptoms data to remote server",
+                "Simulated contact tracing feature in the server end where all users data can be uploaded and analyzed"
+            ],
+            "timeline": "Fall 20",
+            "technologies": [
+                {
+                    "title": "Android API",
+                    "url": "https://developer.android.com/reference"
+                },
+                {
+                    "title": "Android Studio",
+                    "url": "https://developer.android.com/studio"
+                },
+                {
+                    "title": "Android OpenCV",
+                    "url": "https://opencv.org/android/"
+                },
+                {
+                    "title": "Android SQLite",
+                    "url": "https://developer.android.com/training/data-storage/sqlite"
+                },
+                {
+                    "title": "Python Flask",
+                    "url": "https://flask.palletsprojects.com/en/1.1.x/"
+                },
+                {
+                    "title": "REST API",
+                    "url": "https://en.wikipedia.org/wiki/Representational_state_transfer"
+                }
+            ]
+        },
+        {
             "title": "Disease Search By Symptoms - Healthcare Websites Mining",
             "description": "<strong>A complete end-end to applications which allows users to Search disease by typing one or more symptoms in the search box. It also allows users find effective drug for discovered disease.</strong>",
             "ulist": [
-                "Developed web crawlers to scrap structured data from healthcare discussion forums and drug reviews websites.",
-                "Created Java web application and REST API endpoints for data indexing and searching.",
-                "Improved search accuracy by more than 9% by incorporating information extraction technique (NER) and Bio-medical synonyms.",
-                "Collaborated with other team members to successfully deliver project milestones on time."
+                "Developed web crawlers to scrap structured data from healthcare discussion forums and drug reviews websites",
+                "Created Java web application and REST API endpoints for data indexing and searching",
+                "Improved search accuracy by more than 9% by incorporating information extraction technique (NER) and Bio-medical synonyms",
+                "Collaborated with other team members to successfully deliver project milestones on time"
             ],
             "timeline": "Spring 20",
             "technologies": [
@@ -51,12 +128,12 @@
             ]
         },
         {
-            "title": "Bigtable database implementation using Relational DBMS",
+            "title": "Bigtable Database Implementation Using Relational DBMS",
             "description": "<strong>Single-node <a href='https://en.wikipedia.org/wiki/Bigtable'>Bigtable</a> implementation by using Relational DBMS components as building blocks.</strong>",
             "ulist": [
-                "Extended Minibase persistent Heapfile and Tuple data structures to implement Bigtable maps.",
-                "Leveraged in-memory data structures to optimize batch insertion and minimized disk-page access significantly.",
-                "Optimized Heapfile page layout and B+ Tree index structure to support flexible data clustering and querying."
+                "Extended Minibase persistent Heapfile and Tuple data structures to implement Bigtable maps",
+                "Leveraged in-memory data structures to optimize batch insertion and minimized disk-page access significantly",
+                "Optimized Heapfile page layout and B+ Tree index structure to support flexible data clustering and querying"
             ],
             "timeline": "Spring 20",
             "technologies": [
@@ -71,12 +148,12 @@
             ]
         },
         {
-            "title": "Multimedia information retrieval system",
+            "title": "Multimedia Information Retrieval System",
             "description": "<strong>A Supervised Machine Learning project using the <a href='https://sites.google.com/view/11khands'>11k Hands</a> dataset.</strong>",
             "ulist": [
-                "Implemented image feature extraction, mapped images to multi-dimensional vector space for image similarity computation.",
-                "Improved image search performance by 30% by implementing Dimensionality Reduction techniques.",
-                "Implemented relevance feedback using Personalized Page Rank in the image retrieval system."
+                "Implemented image feature extraction, mapped images to multi-dimensional vector space for image similarity computation",
+                "Improved image search performance by 30% by implementing Dimensionality Reduction techniques",
+                "Implemented relevance feedback using Personalized Page Rank in the image retrieval system"
             ],
             "timeline": "Fall 19",
             "technologies": [
