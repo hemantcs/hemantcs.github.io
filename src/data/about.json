@@ -1,11 +1,11 @@
 {
     "title": "About Me",
     "description": "Hello I'm Hemant!",
-    "content": "A polyglot programmer with 5+ years of work experience in multi-tenant SaaS/Cloud application development. Currently pursuing Masters in Computer Science (Big Data Systems) at Arizona State University, Tempe.",
+    "content": "A polyglot programmer with 5+ years of work experience in multi-tenant SaaS/Cloud application development. Currently working as a Senior Software Engineer at Dell Technologies, Seattle, Washington.",
     "content_para2": "Even though my first computer program to add two numbers does seem very much trivial in front of today's computer programs like AlphaZero, which taught itself to play Chess, but that joy was so strong that it has continued being a great motivator to continue my problem-solving pursuit. Today, I am able to write computer programs which can solve arithmentic operations hand-written on a piece of paper.",
     "profile": {
         "title": "Profile",
-        "description": "Currently, I'm seeking a full-time software engineering position starting in May 2021.",
+        "description": "Currently, I'm working on to make sense of Distributed Storage device logs.",
         "profile": [
             {
                 "key": "Full Name:",

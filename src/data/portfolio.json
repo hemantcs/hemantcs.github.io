@@ -2,6 +2,103 @@
     "title": "Portfolio",
     "items": [
         {
+            "title": "Elastic Image Recognition as a Service",
+            "description": "<strong>Elastic Image Recognition as a Service built using AWS public cloud services like EC2, SQS, and S3.</strong>",
+            "ulist": [
+                "Developed Elastic (automatically scales out and in based on demand) Image Recognition Service using AWS services like EC2, SQS, and S3.",
+                "Incorporated Microservice architecture so that components are loosely coupled and independently scalable.",
+                "Improved service resiliency by developing a load-generator to test auto-scaling and to stress test the system."
+            ],
+            "timeline": "Spring 21",
+            "technologies": [
+                {
+                    "title": "AWS EC2",
+                    "url": "https://aws.amazon.com/ec2/"
+                },
+                {
+                    "title": "AWS SQS",
+                    "url": "https://aws.amazon.com/sqs/"
+                },
+                {
+                    "title": "AWS S3",
+                    "url": "https://aws.amazon.com/s3/"
+                },
+                {
+                    "title": "Java",
+                    "url": "https://www.java.com/en/"
+                },
+                {
+                    "title": "Java Servlet",
+                    "url": "https://en.wikipedia.org/wiki/Jakarta_Servlet"
+                },
+                {
+                    "title": "Apache Tomcat",
+                    "url": "http://tomcat.apache.org/"
+                },
+                {
+                    "title": "PyTorch",
+                    "url": "https://pytorch.org/"
+                },
+                {
+                    "title": "Python",
+                    "url": "https://www.python.org/"
+                }
+            ]
+        },
+        {
+            "title": "Grocery List To Nutrients Insight",
+            "description": "<strong>An Elastic Cloud Native Application developed using Google Cloud Platform like App Engine, Cloud SQL, Cloud Run, and Cloud Pub/Sub.</strong>",
+            "ulist": [
+                "Developed a multi-tenant grocery list management app using Google Cloud Platform services to enable users to meet their nutrients goals and promote healthy eating.",
+                "Created a Serverless NLP Microservice to perform entity extraction from the grocery item.",
+                "Implemented REST API endpoints and used these to develop both Web UI and Android app.",
+                "Improved usability of the app by developing an easy-to-use interactive dashboard for nutrients insight."
+            ],
+            "timeline": "Spring 21",
+            "technologies": [
+                {
+                    "title": "Google App Engine",
+                    "url": "https://cloud.google.com/appengine"
+                },
+                {
+                    "title": "Google Pub/Sub",
+                    "url": "https://cloud.google.com/pubsub"
+                },
+                {
+                    "title": "Google Cloud SQL",
+                    "url": "https://cloud.google.com/sql"
+                },
+                {
+                    "title": "Google Cloud Run",
+                    "url": "https://cloud.google.com/run"
+                },
+                {
+                    "title": "Java",
+                    "url": "https://www.java.com/en/"
+                },
+                {
+                    "title": "Java Servlet",
+                    "url": "https://en.wikipedia.org/wiki/Jakarta_Servlet"
+                },
+                {
+                    "title": "REST API",
+                    "url": "https://en.wikipedia.org/wiki/Representational_state_transfer"
+                },
+                {
+                    "title": "Python",
+                    "url": "https://www.python.org/"
+                },
+                {
+                    "title": "Android API",
+                    "url": "https://developer.android.com/reference"
+                },
+                {
+                    "title": "Android Studio",
+                    "url": "https://developer.android.com/studio"
+                }
+            ]
+        },
+        {
             "title": "Clinical Semantic Text Similarity - Natural Language Processing",
             "description": "<strong>Bidirectional Encoder Representations from Transformers (BERT) based implementation for Clinical Semantic Text Similarity <a href='https://n2c2.dbmi.hms.harvard.edu/track1'>challenge</a>.</strong>",
             "ulist": [

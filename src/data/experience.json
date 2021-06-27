@@ -2,6 +2,18 @@
     "title": "Experience",
     "items": [
         {
+            "title": "Software Senior Engineer",
+            "subTitle": "Dell Technologies, Seattle, Washington",
+            "description": "<strong>Making sense of distributed storage device logs...</strong>",
+            "timeline": "Jun 21 - Present",
+            "technologies": [
+                {
+                    "title": "Python",
+                    "url": "https://www.python.org/"
+                }
+            ]
+        },
+        {
             "title": "Software Engineer Intern",
             "subTitle": "Dell Technologies, Tempe, Arizona",
             "description": "<strong>Data storage devices event data analysis</strong>",
