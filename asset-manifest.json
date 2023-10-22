@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7a0eece.css",
+    "main.css": "/static/css/main.bda46149.css",
     "main.js": "/static/js/main.135d2a1e.js",
     "static/media/hemant.png": "/static/media/hemant.512d1fe8342eda1191be.png",
     "static/media/Hemant_Kumar_Singh_Resume.pdf": "/static/media/Hemant_Kumar_Singh_Resume.a818ff58f79a26539ddc.pdf",
     "index.html": "/index.html",
-    "main.b7a0eece.css.map": "/static/css/main.b7a0eece.css.map",
+    "main.bda46149.css.map": "/static/css/main.bda46149.css.map",
     "main.135d2a1e.js.map": "/static/js/main.135d2a1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7a0eece.css",
+    "static/css/main.bda46149.css",
     "static/js/main.135d2a1e.js"
   ]
 }
