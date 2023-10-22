@@ -2,14 +2,58 @@
     "title": "Experience",
     "items": [
         {
+            "title": "Software Engineer III",
+            "subTitle": "Chewy Inc., Seattle, Washington",
+            "description": "<strong>Full-stack cloud-native apps for Fulfillment Center Operations</strong>",
+            "timeline": "Oct 21 - Present",
+            "technologies": [
+                {
+                    "title": "Java",
+                    "url": "https://en.wikipedia.org/wiki/Java_(programming_language)"
+                },
+                {
+                    "title": "Vue.js",
+                    "url": "https://vuejs.org/"
+                },
+                {
+                    "title": "Spring",
+                    "url": "https://spring.io/"
+                }
+            ]
+        },
+        {
+            "title": "Software Engineer II",
+            "subTitle": "Chewy Inc., Seattle, Washington",
+            "description": "<strong>Full-stack cloud-native apps for Fulfillment Center Operations</strong>",
+            "timeline": "Nov 21 - Oct 21",
+            "technologies": [
+                {
+                    "title": "Java",
+                    "url": "https://en.wikipedia.org/wiki/Java_(programming_language)"
+                },
+                {
+                    "title": "Vue.js",
+                    "url": "https://vuejs.org/"
+                },
+                {
+                    "title": "Spring",
+                    "url": "https://spring.io/"
+                }
+            ]
+        },
+        {
             "title": "Software Senior Engineer",
             "subTitle": "Dell Technologies, Seattle, Washington",
             "description": "<strong>Making sense of distributed storage device logs...</strong>",
-            "timeline": "Jun 21 - Present",
+            "timeline": "Jun 21 - Oct 21",
             "technologies": [
                 {
                     "title": "Python",
                     "url": "https://www.python.org/"
+                },
+                {
+                    "title": "Flask",
+                    "url": "https://flask.palletsprojects.com/en/3.0.x/"
                 }
             ]
         },

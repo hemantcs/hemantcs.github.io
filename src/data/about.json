@@ -1,11 +1,11 @@
 {
     "title": "About Me",
     "description": "Hello I'm Hemant!",
-    "content": "A polyglot programmer with 5+ years of work experience in multi-tenant SaaS/Cloud application development. Currently working as a Senior Software Engineer at Dell Technologies, Seattle, Washington.",
+    "content": "A polyglot programmer with 10+ years of work experience in cloud native application development. Currently working as a Software Senior Engineer at Chewy Inc., Seattle, Washington.",
     "content_para2": "Even though my first computer program to add two numbers does seem very much trivial in front of today's computer programs like AlphaZero, which taught itself to play Chess, but that joy was so strong that it has continued being a great motivator to continue my problem-solving pursuit. Today, I am able to write computer programs which can solve arithmentic operations hand-written on a piece of paper.",
     "profile": {
         "title": "Profile",
-        "description": "Currently, I'm working on to make sense of Distributed Storage device logs.",
+        "description": "Currently, I'm working on applications that contributes towards delivering happiness to Pets and Pet parents.",
         "profile": [
             {
                 "key": "Full Name:",
@@ -35,7 +35,11 @@
             },
             {
                 "key": "JS/CSS/HTML",
-                "value": "50%"
+                "value": "75%"
+            },
+            {
+                "key": "AWS",
+                "value": "80%"
             }
         ]
     }
